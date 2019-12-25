@@ -2,7 +2,10 @@
 The ETL part of the project was done using Pentaho. The Data Model was designed using Navicat.
 ODS and Warehouse Transformation files are available in this repository.
 
-![Image description](https://github.com/Ritika92/ETL_Tableau_Kiva/blob/master/images/13.jpg)
+Please read wiki for further details about the project.
+
+# Final Tableau Story
+
 ![Image description](https://github.com/Ritika92/ETL_Tableau_Kiva/blob/master/images/14.jpg)
 ![Image description](https://github.com/Ritika92/ETL_Tableau_Kiva/blob/master/images/15.jpg)
 ![Image description](https://github.com/Ritika92/ETL_Tableau_Kiva/blob/master/images/16.jpg)
